@@ -1,0 +1,44 @@
+[
+	{
+		"carId": 1,
+		"year": 2019,
+		"make": "Toyota",
+		"model": "Prius"
+	},
+	{
+		"carId": 2,
+		"year": 2012,
+		"make": "Toyota",
+		"model": "Camry"
+	},
+	{
+		"carId": 3,
+		"year": 2013,
+		"make": "Ford",
+		"model": "F-150"
+	},
+	{
+		"carId": 4,
+		"year": 2019,
+		"make": "Porsche",
+		"model": "Boxer"
+	},
+	{
+		"carId": 5,
+		"year": 2016,
+		"make": "Hyundai",
+		"model": "Tucson"
+	},
+	{
+		"carId": 6,
+		"year": 2017,
+		"make": "Dodge",
+		"model": "Grand Caravan"
+	},
+	{
+		"carId": 7,
+		"year": 2019,
+		"make": "Volkswagen",
+		"model": "Golf"
+	}
+]
